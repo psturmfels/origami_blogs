@@ -1,0 +1,3 @@
+This directory contains a bunch of .mhtml files of blog posts about origami design. I would like to print them out so that I can read them offline, but printing them out naively is sub-optimal because the files include a bunch of formatting and layout styling to make them look nice on the web and be part of a broader website. I do not care about the website formatting - I just want the text and images of each blog post that relate to the content of origami design, loosely formatted as text so that it easy to print on standard printer paper.
+
+Your job is to modify the files directly to strip out the extraneous formatting and make all of the blogs nicely print-able. You may edit the files directly.
