@@ -1,0 +1,15 @@
+[workspace]
+authors = ["Pascal Sturmfels <pysturmfels@gmail.com>"]
+channels = ["conda-forge"]
+name = "origami_blogs"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.12.*"
+beautifulsoup4 = ">=4.15.0,<5"
+lxml = ">=6.1.3,<7"
+requests = ">=2.34.2,<3"
+pymupdf = ">=1.28.0,<2"
