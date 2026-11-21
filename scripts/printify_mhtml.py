@@ -522,7 +522,7 @@ PRINT_CSS = """
   margin: 18mm 17mm;
 }
 html {
-  font-size: 11pt;
+  font-size: 14pt;
 }
 body {
   margin: 0 auto;
@@ -584,7 +584,7 @@ img {
 figcaption {
   margin-top: 0.4em;
   color: #444;
-  font-size: 9.5pt;
+  font-size: 12pt;
   font-style: italic;
   line-height: 1.35;
 }
@@ -607,7 +607,7 @@ figcaption {
 table {
   border-collapse: collapse;
   margin: 1em auto;
-  font-size: 10pt;
+  font-size: 12pt;
   page-break-inside: avoid;
   break-inside: avoid;
 }
